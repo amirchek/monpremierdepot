@@ -16,7 +16,7 @@ public class Labgit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // voici le nouveau commentaire 
+        System.out.println("j'ai faim");
         
     }
     
