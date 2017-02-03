@@ -16,7 +16,7 @@ public class Labgit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // voici mon projet ohhhhh yeahhhhhh 
+        // voici le nouveau commentaire 
         
     }
     
